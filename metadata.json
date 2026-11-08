@@ -1,0 +1,6 @@
+{
+  "name": "ToneShift - Message Rewriter",
+  "description": "Rewrite rough drafts instantly into Friendly, Professional, or Short tones with Gemini AI. Clean, private, and mobile-friendly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
